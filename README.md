@@ -44,6 +44,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5.For different input combinations generate the timing diagram
 
 **PROGRAM**
+
+
+
 Developed by:Abinaya A
 Reg no:212223040003
 ```
